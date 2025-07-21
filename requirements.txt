@@ -4,14 +4,5 @@ datasets
 pandas
 numpy
 sentence_transformers
-huggingface_hub[hf_xet]
-
 scikit-learn
-matplotlib
-seaborn
-tensorflow
 transformers
-tf-keras
-torch
-SentenceTransformer
-huggingface_hub[hf_xet]
