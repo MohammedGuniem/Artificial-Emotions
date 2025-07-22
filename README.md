@@ -5,7 +5,7 @@ https://docs.anaconda.com/anaconda/install/
 
 ## Clone this repository to your local machine
 ```
-git clone https://github.com/MohammedGuniem/artificial_emotions.git
+git clone https://github.com/MohammedGuniem/Artificial-Emotions.git
 ```
 
 ## Create a new conda environment with python installed
@@ -20,7 +20,7 @@ conda activate artificial_emotions
 
 ## Navigate to this root directory
 ```
-cd '.\Artificial Emotions\'
+cd '.\Artificial-Emotions\'
 ```
 
 ## Install the required packages
