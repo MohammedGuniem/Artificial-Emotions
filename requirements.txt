@@ -7,3 +7,4 @@ sentence_transformers
 scikit-learn
 transformers
 matplotlib
+python-docx

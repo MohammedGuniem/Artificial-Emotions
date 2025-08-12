@@ -1,0 +1,10 @@
+notebook
+ipywidgets
+datasets
+pandas
+numpy
+sentence_transformers
+scikit-learn
+transformers
+matplotlib
+python-docx
